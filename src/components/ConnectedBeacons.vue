@@ -41,7 +41,9 @@ export default {
       var vm = this;
       vm.beacons = []; // Clear view
 
-      var url = `${vm.registry}services?type=beacon`;
+      //var url = `${vm.registry}/services?type=beacon/`;
+      var url = `http://localhost:8080/services?type=beacon`;
+      console.log(vm.registry)
 
       axios
         .get(url)
