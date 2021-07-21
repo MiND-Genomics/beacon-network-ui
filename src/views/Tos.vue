@@ -12,11 +12,10 @@
 
     <h3>Service</h3>
     <p>
-      The service is provided by ELIXIR Finland (CSC - IT Center for Science
-      Ltd.). As a service provider ELIXIR Finland is responsible for hosting the
-      service website and any underlying APIs. The service is operated by ELIXIR
-      Europe (ELIXIR Hub). As a service operator ELIXIR Europe is responsible
-      for managing the service contact address.
+      The service is provided by Van Andel Institute (VAI MiND). As a service 
+      provider ELIXIR Finland is responsible for hosting the service website and
+      any underlying APIs. The service is operated by MiND. As a service 
+      operator VAI is responsible for managing the service contact address.
     </p>
     <h3>Warranty and Liability</h3>
     <p>
@@ -47,8 +46,7 @@
     <h3>Contact Us</h3>
     <p>
       Should any questions or suggestions emerge, we urge you to contact us at
-      <br /><a href="mailto:bn-contact@elixir-europe.org"
-        >bn-contact@elixir-europe.org</a
+      <br /><a href="mailto:info@vai.org">info@vai.org</a
       ><br />
     </p>
     <router-link to="/privacy">Privacy Policy</router-link><br />
