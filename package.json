@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "start": "serve -l 8080 -s dist"
+    "start": "serve -l 8888 -s dist"
   },
   "dependencies": {
     "acorn": "^6.4.1",
