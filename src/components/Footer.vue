@@ -6,9 +6,9 @@
         <div class="columns">
           <div
             class="column"
-            title="ELIXIR Beacon Network website internal navigation"
+            title="VAI Beacon Network website internal navigation"
           >
-            <p class="footer-heading">ELIXIR Beacon Network</p>
+            <p class="footer-heading">VAI Beacon Network</p>
             <ul>
               <li>
                 <router-link
@@ -20,7 +20,7 @@
               <li>
                 <router-link
                   to="/join"
-                  title="How to register a new Beacon to ELIXIR Beacon Network"
+                  title="How to register a new Beacon to VAI Beacon Network"
                   >Join the Network</router-link
                 >
               </li>
@@ -51,15 +51,15 @@
               <li>
                 <a
                   href="https://beacon-project.io/"
-                  title="Information regarding the GA4GH/ELIXIR Beacon project"
+                  title="Information regarding the GA4GH/VAI Beacon project"
                   >Beacon Project</a
                 >
               </li>
               <li>
                 <a
                   href="https://elixir-europe.org/"
-                  title="ELIXIR Europe website"
-                  >ELIXIR Europe</a
+                  title="VAI Europe website"
+                  >VAI Europe</a
                 >
               </li>
               <li>
@@ -68,7 +68,7 @@
               <li>
                 <a
                   href="https://ga4gh-discovery.github.io/"
-                  title="Information regarding the GA4GH/ELIXIR Beacon Network project"
+                  title="Information regarding the GA4GH/VAI Beacon Network project"
                   >GA4GH Discovery</a
                 >
               </li>
@@ -78,10 +78,10 @@
             <a
               class="login"
               href="https://elixir-europe.org/"
-              title="Go to ELIXIR Europe"
+              title="Go to VAI Europe"
               ><img
-                src="@/assets/elixir-white-orange-logo.png"
-                alt="ELIXIR Europe Logo"
+                src="@/assets/VAI-logo-2line-19_2C-new-web.png"
+                alt="VAI Europe Logo"
             /></a>
           </div>
         </div>
@@ -92,51 +92,47 @@
       <div class="content">
         <div class="columns">
           <div class="column">
-            <p>
-              <img class="flag" alt="EU Flag" src="../assets/eu-flag-bw.jpg" />
-              ELIXIR is partly funded by the European Commission within the
-              Research Infrastructures programme of Horizon 2020.
-            </p>
+            <p></p>
           </div>
           <div class="column contact">
             <p class="address">
-              ELIXIR Beacon Network is operated by
+              VAI Beacon Network is operated by
               <a
-                href="http://www.elixir-europe.org/"
-                title="Go to ELIXIR Europe"
-                >ELIXIR Hub</a
+                href="http://www.vai.org/"
+                title="Go to VAI Europe"
+                >VAI</a
               >
               |
               <a
-                href="mailto:bn-contact@elixir-europe.org"
-                title="Contact the ELIXIR Beacon Network operator"
-                >bn-contact@elixir-europe.org</a
+                href="mailto:contact@vai.org"
+                title="Contact the VAI Beacon Network operator"
+                >contact@vai.org</a
               >
               <br />
-              ELIXIR Beacon Network is provided by
+              VAI Beacon Network is provided by
               <a
-                href="http://www.elixir-finland.org/en/frontpage/"
-                title="Go to ELIXIR Finland, the ELIXIR Beacon Network provider"
-                >ELIXIR Finland</a
+                href="http://www.vai.org"
+                title="Go to VAI, the Beacon Network provider"
+                >VAI</a
               >
               |
               <a
                 href="https://www.csc.fi/"
-                title="Go to CSC, the ELIXIR Beacon Network provider"
-                >CSC</a
+                title="Go to VAI, the VAI Beacon Network provider"
+                >VAI</a
               >
             </p>
             <p class="legal">
-              Copyright © ELIXIR 2019 |
+              Copyright © VAI 2021 |
               <router-link
                 to="/tos"
-                title="Read the Terms of Service of ELIXIR Beacon Network"
+                title="Read the Terms of Service of VAI Beacon Network"
                 >Terms of Service</router-link
               >
               |
               <router-link
                 to="/privacy"
-                title="Read the Privacy Policy of ELIXIR Beacon Network"
+                title="Read the Privacy Policy of VAI Beacon Network"
                 >Privacy Policy</router-link
               >
             </p>
