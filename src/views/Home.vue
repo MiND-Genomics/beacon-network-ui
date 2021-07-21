@@ -4,8 +4,8 @@
       <router-link to="/">
         <img
           class="bigLogo"
-          alt="ELIXIR Beacon Network logo"
-          src="@/assets/beacon-network-logo.png"
+          alt="VAI Beacon Network logo"
+          src="@/assets/VAI-logo-2line-19_2C-new-web.png"
         />
       </router-link>
     </p>
@@ -100,7 +100,7 @@ export default {
     }
   },
   beforeMount() {
-    this.cookieToast();
+    //this.cookieToast();
   }
 };
 </script>
